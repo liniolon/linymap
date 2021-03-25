@@ -78,7 +78,7 @@ python-mimeparse==1.6.0
 python-postmark==0.4.12
 python-telegram-bot==5.3.0
 pytz==2016.10
-PyYAML==3.11
+PyYAML==5.4
 ratelim==0.1.6
 repoze.lru==0.6
 requests==2.13.0
