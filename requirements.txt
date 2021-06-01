@@ -95,7 +95,7 @@ Twisted==16.0.0
 txsocksx==0.0.0
 ujson==1.35
 unity-lens-photos==1.0
-urllib3==1.20
+urllib3==1.26.5
 uTidylib==0.2
 vboxapi==1.0
 virtualenv==15.0.1
