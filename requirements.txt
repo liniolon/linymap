@@ -57,7 +57,7 @@ packaging==16.8
 PAM==0.4.2
 Parsley==1.2
 peewee==2.8.5
-Pillow==3.1.2
+Pillow==9.0.1
 portend==1.8
 psutil==3.4.2
 psycopg2==2.6.2
