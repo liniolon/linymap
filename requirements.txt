@@ -34,7 +34,7 @@ Flask-SQLAlchemy==2.2
 Flask-WTF==0.14.2
 future==0.16.0
 geocoder==1.21.2
-html5lib==0.999
+html5lib==0.999999999
 idna==2.0
 ipaddr==2.1.11
 ipaddress==1.0.16
